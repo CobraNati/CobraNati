@@ -58,7 +58,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CobraNati&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="CobraNati Trophies" />
+    <img src="https://github-profile-repo.vercel.app/?username=CobraNati&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="CobraNati Trophies" />
   </a>
 </p>
 
