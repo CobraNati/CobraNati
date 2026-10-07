@@ -36,61 +36,122 @@
 
 ---
 
+<div align="center">
+
 ### 💻 Tech Stack
 
-<div align="left">
+<br />
 
-#### 🌐 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="JavaScript, HTML5, CSS3" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+<h4 align="center">Frontend Development</h4>
 
-#### ⚙️ Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,php&theme=dark" alt="Python, C++, Java, PHP" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br />
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br />
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br />
+      <sub><b>CSS3</b></sub>
+    </td>
+  </tr>
+</table>
 
-#### ☁️ Database & Cloud / DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,cloudflare,vercel&theme=dark" alt="Firebase, Cloudflare, Vercel" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
-</p>
+<br />
 
-#### 🤖 Machine Learning & AI
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="PyTorch, TensorFlow" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-</p>
+<h4 align="center">Backend Development</h4>
 
-#### 🎨 Design & Creative Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps&theme=dark" alt="Figma, Photoshop" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white" alt="Lightroom" />
-  <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Acrobat" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br />
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br />
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br />
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br />
+      <sub><b>PHP</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h4 align="center">Database & DevOps / Cloud</h4>
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br />
+      <sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /><br />
+      <sub><b>Cloudflare</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br />
+      <sub><b>Vercel</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="assets/icons/mssql.svg" width="48" height="48" alt="MSSQL" /><br />
+      <sub><b>MS SQL</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h4 align="center">Machine Learning & AI</h4>
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br />
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br />
+      <sub><b>TensorFlow</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h4 align="center">Design & Creative Tools</h4>
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br />
+      <sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" /><br />
+      <sub><b>Photoshop</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="assets/icons/lightroom.svg" width="48" height="48" alt="Lightroom" /><br />
+      <sub><b>Lightroom</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="assets/icons/acrobat.svg" width="48" height="48" alt="Acrobat" /><br />
+      <sub><b>Acrobat</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
